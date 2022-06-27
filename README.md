@@ -1,5 +1,14 @@
 # Stories
+
 Inspired by Instagram Stories functionality.
+
+Project overview :
+
+ - UIPageViewController to display the videos
+ - Async/Await to get the data from remote endpoint
+ - MVVM as architecture
+
+Feel free to contribute !
 
 
 ![stories_animated](https://user-images.githubusercontent.com/4942793/175901074-358a5c46-8f0f-4e97-a026-cfab27bb640a.gif)
