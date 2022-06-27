@@ -26,6 +26,7 @@
 		8E606C232869A0A0006C70F8 /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E606C222869A0A0006C70F8 /* Endpoints.swift */; };
 		8E606C282869A683006C70F8 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E606C262869A683006C70F8 /* home.png */; };
 		8E606C2B2869A7DB006C70F8 /* stories_animated.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8E606C2A2869A7DB006C70F8 /* stories_animated.gif */; };
+		8E606C2D2869AAAA006C70F8 /* stories_transition.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8E606C2C2869AAAA006C70F8 /* stories_transition.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		8E606C222869A0A0006C70F8 /* Endpoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoints.swift; sourceTree = "<group>"; };
 		8E606C262869A683006C70F8 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		8E606C2A2869A7DB006C70F8 /* stories_animated.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stories_animated.gif; sourceTree = "<group>"; };
+		8E606C2C2869AAAA006C70F8 /* stories_transition.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stories_transition.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 			children = (
 				8E606C262869A683006C70F8 /* home.png */,
 				8E606C2A2869A7DB006C70F8 /* stories_animated.gif */,
+				8E606C2C2869AAAA006C70F8 /* stories_transition.gif */,
 			);
 			path = Screenhots;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				8E606C282869A683006C70F8 /* home.png in Resources */,
 				8E606C0C28699F68006C70F8 /* response.json in Resources */,
 				8E606BF028699EF8006C70F8 /* LaunchScreen.storyboard in Resources */,
+				8E606C2D2869AAAA006C70F8 /* stories_transition.gif in Resources */,
 				8E606C2B2869A7DB006C70F8 /* stories_animated.gif in Resources */,
 				8E606BED28699EF8006C70F8 /* Assets.xcassets in Resources */,
 			);
